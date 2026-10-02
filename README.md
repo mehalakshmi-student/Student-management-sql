@@ -1,2 +1,2 @@
 # Student-management-sql
-Student management system using sql
+Student Management System Using SQL
